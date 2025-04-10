@@ -1,5 +1,9 @@
 <h1 align="center">👋 ¡Hola! Soy Víctor Daniel</h1>
 <p align="center">
+  <img src="https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966" width="400" alt="coding gif"/>
+</p>
+
+<p align="center">
   💻 Estudiante de programación | 🎮 Apasionado por los videojuegos | 🌐 En camino a ser fullstack
 </p>
 
