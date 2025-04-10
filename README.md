@@ -16,8 +16,6 @@
 - 🃏 Actualmente trabajando en un juego multijugador tipo UNO
 - 📚 Siempre aprendiendo cosas nuevas y colaborando en proyectos
 
-- [![Certificación](https://www.netacad.com/certificates?issuanceId=743e2d32-c2db-4a26-bbec-e9f7ec705f8e)
-
 > *“MODO GUERRA.”* 🚀
 
 ---
