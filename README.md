@@ -12,7 +12,7 @@
 - 🃏 Actualmente trabajando en un juego multijugador tipo UNO
 - 📚 Siempre aprendiendo cosas nuevas y colaborando en proyectos
 
-> *“El mejor código no solo funciona... también se entiende, se disfruta y se comparte.”* 🚀
+> *“MODO GUERRA.”* 🚀
 
 ---
 
