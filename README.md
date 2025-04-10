@@ -45,9 +45,10 @@
 ### 📂 Proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/vidatu04/uno1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidatu04&repo=uno1&theme=radical" />
-  </a>
+  <a href="https://github.com/carlosd2000/uno1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlosd2000&repo=uno1&theme=radical" />
+</a>
+
   <a href="https://github.com/vidatu04/proyectodeCifrado">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vidatu04&repo=proyectodeCifrado&theme=radical" />
 </a>
