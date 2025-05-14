@@ -13,7 +13,6 @@
 
 - 👨‍🎓 Estudiante de programación con enfoque en desarrollo web
 - 💡 Me encanta crear interfaces limpias e interactivas
-- 🃏 Actualmente trabajando en un juego multijugador tipo UNO
 - 📚 Siempre aprendiendo cosas nuevas y colaborando en proyectos
 
 > *“MODO GUERRA.”* 🚀
